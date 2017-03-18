@@ -1,5 +1,5 @@
-# Basic Project
-## Basic Project Structure
+# ebay Project
+## Basic Java project
 
 Default Structure for A Basic Project
 
